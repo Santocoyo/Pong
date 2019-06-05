@@ -1,0 +1,19 @@
+Pong 1x1
+Controles:
+Jugador 1:    | Jugador 2:
+Arriba: W o w | Arriba: Tecla Up
+Abajo : S o s | Abajo : Tecla Down
+Frenar: Q o q | Frenar: Tecla Right
+En este modo de juego solo se mueve una raqueta a la vez por lo que 
+aumenta la competitividad entre jugadores.
+Tambien con solo apretar la tecla correspondiente, sin mantenerla, 
+la raqueta mantiene su movimiento.
+-------------------------------------
+Pong TabTab
+controles:
+Jugador 1:    | Jugador 2:
+Arriba: W o w | Arriba: Tecla Up
+Abajo : S o s | Abajo : Tecla Down
+En este modo de juego cada jugador se mueve independientemente del 
+otro jugador por lo que ya no habran trampas entre jugadores, la 
+cuestión es que ahora tendrás que apretar varias veces la tecla.
